@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+header {
+    background-color: #9a927b;
+    color: aliceblue;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items: center;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header img {
+    width: 50px;
+}
+
+body {
+    background-color: #805566;
+}
+
+.imagem1 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: large;
+
+}
+
+
+.imagem1 img {
+    width: 750px;
+}
+
+
+.imagem {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items: center;
+    color: aliceblue;
+    font-size: large;
+}
+
+.chifre img {
+    width: 80px;
+
+}
+
+.chifre {
+    background-color: #eeda95;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    gap: 30px;
+}
+
+.machado img {
+    width: 80px;
+}
+
+.machado{
+    background-color: #eeda95 ;
+    display: flex;
+    justify-content:  space-evenly;
+    padding: 50px ;
+    gap: 30px;
+}
+
+
+.imagem2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items: center;
+    color: aliceblue;
+    font-size: large;
+}
+
+
+
+.emoticons {
+    display: flex;
+   justify-content: space-evenly;
+   background-color: #9a927b;
+   padding: 50px;
+   gap: 30px;
+}
+
+button {
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 30px;
+    font-size: medium;
+    border-radius: 10px;
+    gap: 15px;
+    align-items: center;
+    background-color: rgba(169, 169, 169, 0.589);
+
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(Imagens/fundo2botao.jpg);
+    background-position: top;
+    background-size: cover;
+    padding: 250px;
+}
+
+footer {
+    background-color: #b7c27e;
+    gap: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: large;
+    padding: 50px;
+}
